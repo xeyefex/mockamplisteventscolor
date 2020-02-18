@@ -1,248 +1,247 @@
 {
-   "news":[
-      {
-         "id":"1",
-         "url":"#",
-         "variant":"tag-text",
-         "flag":"exkursion",
-         "headline":"Schoolübergreifende Exkursion zur 58. Biennale nach Venedig „May you live in interesting times“"
-      },
-      {
-         "id":"2",
-         "url":"#",
-         "image":"https://satyr.io/500x400/bbbbbb/333333?text=mood&amp;texture=cross",
-         "imageFormat5x4": "true",
-         "variant":"tag-text-5x4",
-         "flag":"forschung",
-         "headline":"Wie sich New Work messen lässt"
-      },
-      {
-         "id":"3",
-         "url":"#",
-         "variant":"default",
-         "flag":"",
-         "headline":"Go Cyber, go Secure - 1. school Berlin Hackathon"
-      },
-      {
-         "id":"4",
-         "url":"#",
-         "image":"https://satyr.io/500x400/bbbbbb/333333?text=mood&amp;texture=cross",
-         "imageFormat4x5": "true",
-         "variant":"text-5x4",
-         "flag":"",
-         "headline":"Hochschuldialog mit den Ländern des westlichen Balkans"
-      },
-      {
-         "id":"5",
-         "url":"#",
-         "variant":"default",
-         "flag":"",
-         "headline":"„Working for the greater good“"
-      },
-      {
-         "id":"6",
-         "url":"#",
-         "image":"https://satyr.io/500x400/bbbbbb/333333?text=mood&amp;texture=cross",
-         "imageFormat5x4": "true",
-         "variant":"tag-text-5x4",
-         "flag":"forschung",
-         "headline":"Prof. Dr. Dirk Hagen neues Beiratsmitglied beim Kongressfachverband degefest"
-      },
-      {
-         "id":"7",
-         "url":"#",
-         "image":"https://satyr.io/500x400/bbbbbb/333333?text=mood&amp;texture=cross",
-         "imageFormat4x5": "true",
-         "variant":"tag-text-5x4",
-         "flag":"forschung",
-         "headline":"Prof. Dr. Dirk Hagen neues Beiratsmitglied beim Kongressfachverband degefest"
-      },
-      {
-         "id":"8",
-         "url":"#",
-         "image":"https://satyr.io/500x400/bbbbbb/333333?text=mood&amp;texture=cross",
-         "imageFormat5x4": "true",
-         "variant":"text-5x4",
-         "flag":"",
-         "headline":"David Kaiser erzählt von seinem Praxissemester"
-      },
-      {
-         "id":"9",
-         "url":"#",
-         "image":"https://satyr.io/500x400/bbbbbb/333333?text=mood&amp;texture=cross",
-         "imageFormat5x4": "true",
-         "variant":"tag-text-5x4",
-         "flag":"forschung",
-         "headline":"Wie Farben unsere Designentscheidungen beeinflussen"
-      },
-      {
-         "id":"10",
-         "url":"#",
-         "variant":"default",
-         "flag":"",
-         "headline":"Warum es sich lohnt, Kunden genau zu kennen und wie Algorithmen dabei helfen können"
-      },
-      {
-         "id":"11",
-         "url":"#",
-         "image":"https://satyr.io/500x400/bbbbbb/333333?text=mood&amp;texture=cross",
-         "imageFormat4x5": "true",
-         "variant":"text-5x4",
-         "flag":"",
-         "headline":"Hochschuldialog mit den Ländern des westlichen Balkans"
-      },
-      {
-         "id":"12",
-         "url":"#",
-         "variant":"default",
-         "flag":"",
-         "headline":"Yale Summer Session 2019 an der school Hochschule Berlin"
-      },
-      {
-         "id":"13",
-         "url":"#",
-         "image":"https://satyr.io/500x400/bbbbbb/333333?text=mood&amp;texture=cross",
-         "imageFormat5x4": "true",
-         "variant":"tag-text-5x4",
-         "flag":"karriere",
-         "headline":"Gut vorbereitet für den Berufseinstieg"
-      },
-      {
-         "id":"14",
-         "url":"#",
-         "flag":"",
-         "variant":"default",
-         "headline":"Go Cyber, go Secure - 1. school Berlin Hackathon"
-      },
-      {
-         "id":"15",
-         "url":"#",
-         "image":"https://satyr.io/500x400/bbbbbb/333333?text=mood&amp;texture=cross",
-         "imageFormat4x5": "true",
-         "variant":"tag-text-5x4",
-         "flag":"forschung",
-         "headline":"EY meets school"
-      },
-      {
-         "id":"16",
-         "url":"#",
-         "variant":"tag-text",
-         "flag":"exkursion",
-         "headline":"Wie verhandelt man ein Zollabkommen?"
-      },
-      {
-         "id":"17",
-         "url":"#",
-         "variant":"tag-text",
-         "flag":"exkursion",
-         "headline":"Schoolübergreifende Exkursion zur 58. Biennale nach Venedig „May you live in interesting times“"
-      },
-      {
-         "id":"18",
-         "url":"#",
-         "image":"https://satyr.io/500x400/bbbbbb/333333?text=mood&amp;texture=cross",
-         "imageFormat5x4": "true",
-         "variant":"tag-text-5x4",
-         "flag":"forschung",
-         "headline":"Wie sich New Work messen lässt"
-      },
-      {
-         "id":"19",
-         "url":"#",
-         "variant":"default",
-         "flag":"vortrag",
-         "headline":"Go Cyber, go Secure - 1. school Berlin Hackathon"
-      },
-      {
-         "id":"20",
-         "url":"#",
-         "image":"https://satyr.io/500x400/bbbbbb/333333?text=mood&amp;texture=cross",
-         "imageFormat4x5": "true",
-         "variant":"text-5x4",
-         "flag":"vortrag",
-         "headline":"Hochschuldialog mit den Ländern des westlichen Balkans"
-      },
-      {
-         "id":"21",
-         "url":"#",
-         "variant":"default",
-         "flag":"veröffentlichung",
-         "headline":"„Working for the greater good“"
-      },
-      {
-         "id":"22",
-         "url":"#",
-         "image":"https://satyr.io/500x400/bbbbbb/333333?text=mood&amp;texture=cross",
-         "imageFormat5x4": "true",
-         "variant":"tag-text-5x4",
-         "flag":"forschung",
-         "headline":"Prof. Dr. Dirk Hagen neues Beiratsmitglied beim Kongressfachverband degefest"
-      },
-      {
-         "id":"23",
-         "url":"#",
-         "image":"https://satyr.io/500x400/bbbbbb/333333?text=mood&amp;texture=cross",
-         "imageFormat4x5": "true",
-         "variant":"tag-text-5x4",
-         "flag":"forschung",
-         "headline":"Prof. Dr. Dirk Hagen neues Beiratsmitglied beim Kongressfachverband degefest"
-      },
-      {
-         "id":"24",
-         "url":"#",
-         "image":"https://satyr.io/500x400/bbbbbb/333333?text=mood&amp;texture=cross",
-         "imageFormat5x4": "true",
-         "variant":"text-5x4",
-         "flag":"interview",
-         "headline":"David Kaiser erzählt von seinem Praxissemester"
-      },
-      {
-         "id":"25",
-         "url":"#",
-         "image":"https://satyr.io/500x400/bbbbbb/333333?text=mood&amp;texture=cross",
-         "imageFormat4x5": "true",
-         "variant":"tag-text-5x4",
-         "flag":"forschung",
-         "headline":"Wie Farben unsere Designentscheidungen beeinflussen"
-      },
-      {
-         "id":"26",
-         "url":"#",
-         "variant":"default",
-         "flag":"karriere",
-         "headline":"Warum es sich lohnt, Kunden genau zu kennen und wie Algorithmen dabei helfen können"
-      },
-      {
-         "id":"27",
-         "url":"#",
-         "image":"https://satyr.io/500x400/bbbbbb/333333?text=mood&amp;texture=cross",
-         "imageFormat5x4": "true",
-         "variant":"text-5x4",
-         "flag":"internationales",
-         "headline":"Hochschuldialog mit den Ländern des westlichen Balkans"
-      },
-      {
-         "id":"28",
-         "url":"#",
-         "variant":"default",
-         "flag":"internationales",
-         "headline":"Yale Summer Session 2019 an der school Hochschule Berlin"
-      },
-      {
-         "id":"29",
-         "url":"#",
-         "image":"https://satyr.io/500x400/bbbbbb/333333?text=mood&amp;texture=cross",
-         "imageFormat5x4": "true",
-         "variant":"tag-text-5x4",
-         "flag":"karriere",
-         "headline":"Gut vorbereitet für den Berufseinstieg"
-      },
-      {
-         "id":"30",
-         "url":"#",
-         "flag":"studienprojekt",
-         "variant":"default",
-         "headline":"Go Cyber, go Secure - 1. school Berlin Hackathon"
-      }
-   ]
+  "events": [
+    {
+      "id": "1",
+      "url": "#",
+      "flag": "open day",
+      "date": "25.01. - 27.01.2020",
+      "text": "Lernen Sie unsere Hochschule, unsere Studiengänge und unser Team bei unserem Tag der offenen Tür kennen.",
+      "location": "Campus Berlin",
+         "headline": "Tag der offenen Tür"
+    },
+    {
+      "id": "2",
+      "url": "#",
+      "flag": "",
+      "date": "13.02.2020",
+      "text": "Lernen Sie bei der Infoveranstaltung verschiedene Finanzierungsmöglichkeiten kennen und lassen Sie sich beraten.",
+      "location": "Campus Berlin",
+         "headline": "Das Einmaleins der Studienfinanzierung"
+    },
+    {
+      "id": "3",
+      "url": "#",
+      "flag": "infotag",
+      "date": "26.02.2020",
+      "text": "Erfahren Sie, was ein Studium bei uns ausmacht, wie Sie sich bewerben können und lernen Sie unser Team kennen.",
+      "location": "Campus Berlin",
+         "headline": "Infonachmittag"
+    },
+    {
+      "id": "4",
+      "url": "#",
+      "flag": "start-up-lab",
+      "date": "14.03.2020",
+      "text": "Join the Start-up Lab Community",
+      "location": "SRH Start-up Lab Berlin",
+         "headline": "1st Get Together of the Start-up Lab Community"
+    },
+    {
+      "id": "5",
+      "url": "#",
+      "flag": "start-up-lab",
+      "date": "19.03.2020",
+      "text": "You have a great idea? Looking for great tools that help you to open your business? Welcome to Berlin Startup School!",
+      "location": "SRH Start-up Lab Berlin",
+         "headline": "„Working for the greater good“"
+    },
+    {
+      "id": "6",
+      "url": "#",
+      "flag": "start-up-lab",
+      "date": "02.04.2020",
+      "text": "Entrepreneurship is about working on yourself, develop & improve. Your emotional intelligence is key in this journey.",
+      "location": "SRH Start-up Lab Berlin",
+      "headline": "Emotional Intelligence - Communication in Entrepreneurship & Business"
+    },
+    {
+      "id": "7",
+      "url": "#",
+      "flag": "party",
+      "date": "13.07.2020",
+      "text": "This year's Summer Bash of all Berlin SRH Universities is coming up - Come celebrate with us!",
+      "location": "Heimathafen Berlin",
+      "headline": "SRH Summer Bash 2019"
+    },
+    {
+      "id": "8",
+      "url": "#",
+      "flag": "",
+      "date": "25.07. - 27.07.2020",
+      "text": "Sie sind noch unsicher, ob Management das Richtige für Sie ist? Kommen Sie zu unseren BWL-Schnuppervorlesungen.",
+      "location": "Campus Berlin",
+      "headline": "Besuchen Sie unsere Schnuppervorlesungen"
+    },
+    {
+      "id": "9",
+      "url": "#",
+      "flag": "",
+      "date": "18.05.2020",
+      "text": "Which impact does entrepreneurship have on society? Our experts discuss the implications of the start-up boom.",
+      "location": "SRH Start-up Lab Berlin",
+      "headline": "SRH Expertentalk - Entrepreneurship: Hype or Substance"
+    },
+    {
+      "id": "10",
+      "url": "#",
+      "flag": "open day",
+      "date": "25.01. - 27.01.2020",
+      "text": "Lernen Sie unsere Hochschule, unsere Studiengänge und unser Team bei unserem Tag der offenen Tür kennen.",
+      "location": "Campus Berlin",
+         "headline": "Tag der offenen Tür"
+    },
+    {
+      "id": "11",
+      "url": "#",
+      "flag": "",
+      "date": "13.02.2020",
+      "text": "Lernen Sie bei der Infoveranstaltung verschiedene Finanzierungsmöglichkeiten kennen und lassen Sie sich beraten.",
+      "location": "Campus Berlin",
+         "headline": "Das Einmaleins der Studienfinanzierung"
+    },
+    {
+      "id": "12",
+      "url": "#",
+      "flag": "infotag",
+      "date": "26.02.2020",
+      "text": "Erfahren Sie, was ein Studium bei uns ausmacht, wie Sie sich bewerben können und lernen Sie unser Team kennen.",
+      "location": "Campus Berlin",
+         "headline": "Infonachmittag"
+    },
+    {
+      "id": "13",
+      "url": "#",
+      "flag": "start-up-lab",
+      "date": "14.03.2020",
+      "text": "Join the Start-up Lab Community",
+      "location": "SRH Start-up Lab Berlin",
+         "headline": "1st Get Together of the Start-up Lab Community"
+    },
+    {
+      "id": "14",
+      "url": "#",
+      "flag": "start-up-lab",
+      "date": "19.03.2020",
+      "text": "You have a great idea? Looking for great tools that help you to open your business? Welcome to Berlin Startup School!",
+      "location": "SRH Start-up Lab Berlin",
+         "headline": "„Working for the greater good“"
+    },
+    {
+      "id": "15",
+      "url": "#",
+      "flag": "start-up-lab",
+      "date": "02.04.2020",
+      "text": "Entrepreneurship is about working on yourself, develop & improve. Your emotional intelligence is key in this journey.",
+      "location": "SRH Start-up Lab Berlin",
+      "headline": "Emotional Intelligence - Communication in Entrepreneurship & Business"
+    },
+    {
+      "id": "16",
+      "url": "#",
+      "flag": "party",
+      "date": "13.07.2020",
+      "text": "This year's Summer Bash of all Berlin SRH Universities is coming up - Come celebrate with us!",
+      "location": "Heimathafen Berlin",
+      "headline": "SRH Summer Bash 2019"
+    },
+    {
+      "id": "17",
+      "url": "#",
+      "flag": "",
+      "date": "25.07. - 27.07.2020",
+      "text": "Sie sind noch unsicher, ob Management das Richtige für Sie ist? Kommen Sie zu unseren BWL-Schnuppervorlesungen.",
+      "location": "Campus Berlin",
+      "headline": "Besuchen Sie unsere Schnuppervorlesungen"
+    },
+    {
+      "id": "18",
+      "url": "#",
+      "flag": "",
+      "date": "18.05.2020",
+      "text": "Which impact does entrepreneurship have on society? Our experts discuss the implications of the start-up boom.",
+      "location": "SRH Start-up Lab Berlin",
+      "headline": "SRH Expertentalk - Entrepreneurship: Hype or Substance"
+    },
+    {
+      "id": "19",
+      "url": "#",
+      "flag": "open day",
+      "date": "25.01. - 27.01.2020",
+      "text": "Lernen Sie unsere Hochschule, unsere Studiengänge und unser Team bei unserem Tag der offenen Tür kennen.",
+      "location": "Campus Berlin",
+         "headline": "Tag der offenen Tür"
+    },
+    {
+      "id": "20",
+      "url": "#",
+      "flag": "",
+      "date": "13.02.2020",
+      "text": "Lernen Sie bei der Infoveranstaltung verschiedene Finanzierungsmöglichkeiten kennen und lassen Sie sich beraten.",
+      "location": "Campus Berlin",
+         "headline": "Das Einmaleins der Studienfinanzierung"
+    },
+    {
+      "id": "21",
+      "url": "#",
+      "flag": "infotag",
+      "date": "26.02.2020",
+      "text": "Erfahren Sie, was ein Studium bei uns ausmacht, wie Sie sich bewerben können und lernen Sie unser Team kennen.",
+      "location": "Campus Berlin",
+         "headline": "Infonachmittag"
+    },
+    {
+      "id": "22",
+      "url": "#",
+      "flag": "start-up-lab",
+      "date": "14.03.2020",
+      "text": "Join the Start-up Lab Community",
+      "location": "SRH Start-up Lab Berlin",
+         "headline": "1st Get Together of the Start-up Lab Community"
+    },
+    {
+      "id": "23",
+      "url": "#",
+      "flag": "start-up-lab",
+      "date": "19.03.2020",
+      "text": "You have a great idea? Looking for great tools that help you to open your business? Welcome to Berlin Startup School!",
+      "location": "SRH Start-up Lab Berlin",
+         "headline": "„Working for the greater good“"
+    },
+    {
+      "id": "24",
+      "url": "#",
+      "flag": "start-up-lab",
+      "date": "02.04.2020",
+      "text": "Entrepreneurship is about working on yourself, develop & improve. Your emotional intelligence is key in this journey.",
+      "location": "SRH Start-up Lab Berlin",
+      "headline": "Emotional Intelligence - Communication in Entrepreneurship & Business"
+    },
+    {
+      "id": "25",
+      "url": "#",
+      "flag": "party",
+      "date": "13.07.2020",
+      "text": "This year's Summer Bash of all Berlin SRH Universities is coming up - Come celebrate with us!",
+      "location": "Heimathafen Berlin",
+      "headline": "SRH Summer Bash 2019"
+    },
+    {
+      "id": "26",
+      "url": "#",
+      "flag": "",
+      "date": "25.07. - 27.07.2020",
+      "text": "Sie sind noch unsicher, ob Management das Richtige für Sie ist? Kommen Sie zu unseren BWL-Schnuppervorlesungen.",
+      "location": "Campus Berlin",
+      "headline": "Besuchen Sie unsere Schnuppervorlesungen"
+    },
+    {
+      "id": "27",
+      "url": "#",
+      "flag": "",
+      "date": "18.05.2020",
+      "text": "Which impact does entrepreneurship have on society? Our experts discuss the implications of the start-up boom.",
+      "location": "SRH Start-up Lab Berlin",
+      "headline": "SRH Expertentalk - Entrepreneurship: Hype or Substance"
+    }
+  ]
 }

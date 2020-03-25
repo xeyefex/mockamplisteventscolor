@@ -212,39 +212,6 @@
       "text": "Lernen Sie bei der Infoveranstaltung verschiedene Finanzierungsmöglichkeiten kennen und lassen Sie sich beraten.",
       "location": "Campus Berlin",
       "headline": "Das Einmaleins der Studienfinanzierung"
-    },
-    {
-      "id": "21",
-      "url": "#",
-      "theme": "st-blue",
-      "showFlags": "true",
-      "flags": [ { "label": "infotag", "class": "st-background" }],
-      "date": "26.02.2020",
-      "text": "Erfahren Sie, was ein Studium bei uns ausmacht, wie Sie sich bewerben können und lernen Sie unser Team kennen.",
-      "location": "Campus Berlin",
-      "headline": "Infonachmittag"
-    },
-    {
-      "id": "22",
-      "url": "#",
-      "theme": "st-orange",
-      "showFlags": "true",
-      "flags": [ { "label": "start-up-lab", "class": "st-background" }],
-      "date": "14.03.2020",
-      "text": "Join the Start-up Lab Community",
-      "location": "SRH Start-up Lab Berlin",
-      "headline": "1st Get Together of the Start-up Lab Community"
-    },
-    {
-      "id": "23",
-      "url": "#",
-      "theme": "st-orange",
-      "showFlags": "true",
-      "flags": [ { "label": "start-up-lab", "class": "st-background" }],
-      "date": "19.03.2020",
-      "text": "You have a great idea? Looking for great tools that help you to open your business? Welcome to Berlin Startup School!",
-      "location": "SRH Start-up Lab Berlin",
-      "headline": "„Working for the greater good“"
     }
   ]
 }

@@ -3,7 +3,9 @@
     {
       "id": "1",
       "url": "#",
-      "flag": "open day",
+      "theme": "",
+      "showFlags": "true",
+      "flags": [{ "label": "open day", "class": "st-warmGreyBg" }],
       "date": "25.01. - 27.01.2020",
       "text": "Lernen Sie unsere Hochschule, unsere Studiengänge und unser Team bei unserem Tag der offenen Tür kennen.",
       "location": "Campus Berlin",
@@ -12,16 +14,19 @@
     {
       "id": "2",
       "url": "#",
-      "flag": "",
+      "theme": "",
+      "showFlags": false,
       "date": "13.02.2020",
       "text": "Lernen Sie bei der Infoveranstaltung verschiedene Finanzierungsmöglichkeiten kennen und lassen Sie sich beraten.",
       "location": "Campus Berlin",
-         "headline": "Das Einmaleins der Studienfinanzierung"
+      "headline": "Das Einmaleins der Studienfinanzierung"
     },
     {
       "id": "3",
       "url": "#",
-      "flag": "infotag",
+      "theme": "st-blue",
+      "showFlags": "true",
+      "flags": [ { "label": "infotag", "class": "st-background" }],
       "date": "26.02.2020",
       "text": "Erfahren Sie, was ein Studium bei uns ausmacht, wie Sie sich bewerben können und lernen Sie unser Team kennen.",
       "location": "Campus Berlin",
@@ -30,7 +35,9 @@
     {
       "id": "4",
       "url": "#",
-      "flag": "start-up-lab",
+      "theme": "st-orange",
+      "showFlags": "true",
+      "flags": [ { "label": "start-up-lab", "class": "st-background" }],
       "date": "14.03.2020",
       "text": "Join the Start-up Lab Community",
       "location": "SRH Start-up Lab Berlin",
@@ -39,7 +46,9 @@
     {
       "id": "5",
       "url": "#",
-      "flag": "start-up-lab",
+      "theme": "st-orange",
+      "showFlags": "true",
+      "flags": [ { "label": "start-up-lab", "class": "st-background" }],
       "date": "19.03.2020",
       "text": "You have a great idea? Looking for great tools that help you to open your business? Welcome to Berlin Startup School!",
       "location": "SRH Start-up Lab Berlin",
@@ -48,7 +57,9 @@
     {
       "id": "6",
       "url": "#",
-      "flag": "start-up-lab",
+      "theme": "st-orange",
+      "showFlags": "true",
+      "flags": [ { "label": "start-up-lab", "class": "st-background" }],
       "date": "02.04.2020",
       "text": "Entrepreneurship is about working on yourself, develop & improve. Your emotional intelligence is key in this journey.",
       "location": "SRH Start-up Lab Berlin",
@@ -57,7 +68,9 @@
     {
       "id": "7",
       "url": "#",
-      "flag": "party",
+      "theme": "",
+      "showFlags": "true",
+      "flags": [{ "label": "party", "class": "st-warmGreyBg" }],
       "date": "13.07.2020",
       "text": "This year's Summer Bash of all Berlin SRH Universities is coming up - Come celebrate with us!",
       "location": "Heimathafen Berlin",
@@ -66,7 +79,8 @@
     {
       "id": "8",
       "url": "#",
-      "flag": "",
+      "theme": "",
+      "showFlags": false,
       "date": "25.07. - 27.07.2020",
       "text": "Sie sind noch unsicher, ob Management das Richtige für Sie ist? Kommen Sie zu unseren BWL-Schnuppervorlesungen.",
       "location": "Campus Berlin",
@@ -75,7 +89,8 @@
     {
       "id": "9",
       "url": "#",
-      "flag": "",
+      "theme": "",
+      "showFlags": false,
       "date": "18.05.2020",
       "text": "Which impact does entrepreneurship have on society? Our experts discuss the implications of the start-up boom.",
       "location": "SRH Start-up Lab Berlin",
@@ -84,7 +99,9 @@
     {
       "id": "10",
       "url": "#",
-      "flag": "open day",
+      "theme": "",
+      "showFlags": "true",
+      "flags": [{ "label": "open day", "class": "st-warmGreyBg" }],
       "date": "25.01. - 27.01.2020",
       "text": "Lernen Sie unsere Hochschule, unsere Studiengänge und unser Team bei unserem Tag der offenen Tür kennen.",
       "location": "Campus Berlin",
@@ -93,16 +110,19 @@
     {
       "id": "11",
       "url": "#",
-      "flag": "",
+      "theme": "",
+      "showFlags": false,
       "date": "13.02.2020",
       "text": "Lernen Sie bei der Infoveranstaltung verschiedene Finanzierungsmöglichkeiten kennen und lassen Sie sich beraten.",
       "location": "Campus Berlin",
-         "headline": "Das Einmaleins der Studienfinanzierung"
+      "headline": "Das Einmaleins der Studienfinanzierung"
     },
     {
       "id": "12",
       "url": "#",
-      "flag": "infotag",
+      "theme": "st-blue",
+      "showFlags": "true",
+      "flags": [ { "label": "infotag", "class": "st-background" }],
       "date": "26.02.2020",
       "text": "Erfahren Sie, was ein Studium bei uns ausmacht, wie Sie sich bewerben können und lernen Sie unser Team kennen.",
       "location": "Campus Berlin",
@@ -111,25 +131,31 @@
     {
       "id": "13",
       "url": "#",
-      "flag": "start-up-lab",
+      "theme": "st-orange",
+      "showFlags": "true",
+      "flags": [ { "label": "start-up-lab", "class": "st-background" }],
       "date": "14.03.2020",
       "text": "Join the Start-up Lab Community",
       "location": "SRH Start-up Lab Berlin",
-         "headline": "1st Get Together of the Start-up Lab Community"
+      "headline": "1st Get Together of the Start-up Lab Community"
     },
     {
       "id": "14",
       "url": "#",
-      "flag": "start-up-lab",
+      "theme": "st-orange",
+      "showFlags": "true",
+      "flags": [ { "label": "start-up-lab", "class": "st-background" }],
       "date": "19.03.2020",
       "text": "You have a great idea? Looking for great tools that help you to open your business? Welcome to Berlin Startup School!",
       "location": "SRH Start-up Lab Berlin",
-         "headline": "„Working for the greater good“"
+      "headline": "„Working for the greater good“"
     },
     {
       "id": "15",
       "url": "#",
-      "flag": "start-up-lab",
+      "theme": "st-orange",
+      "showFlags": "true",
+      "flags": [ { "label": "start-up-lab", "class": "st-background" }],
       "date": "02.04.2020",
       "text": "Entrepreneurship is about working on yourself, develop & improve. Your emotional intelligence is key in this journey.",
       "location": "SRH Start-up Lab Berlin",
@@ -138,7 +164,9 @@
     {
       "id": "16",
       "url": "#",
-      "flag": "party",
+      "theme": "",
+      "showFlags": "true",
+      "flags": [{ "label": "party", "class": "st-warmGreyBg" }],
       "date": "13.07.2020",
       "text": "This year's Summer Bash of all Berlin SRH Universities is coming up - Come celebrate with us!",
       "location": "Heimathafen Berlin",
@@ -147,7 +175,8 @@
     {
       "id": "17",
       "url": "#",
-      "flag": "",
+      "theme": "",
+      "showFlags": false,
       "date": "25.07. - 27.07.2020",
       "text": "Sie sind noch unsicher, ob Management das Richtige für Sie ist? Kommen Sie zu unseren BWL-Schnuppervorlesungen.",
       "location": "Campus Berlin",
@@ -156,7 +185,8 @@
     {
       "id": "18",
       "url": "#",
-      "flag": "",
+      "theme": "",
+      "showFlags": false,
       "date": "18.05.2020",
       "text": "Which impact does entrepreneurship have on society? Our experts discuss the implications of the start-up boom.",
       "location": "SRH Start-up Lab Berlin",
@@ -165,52 +195,63 @@
     {
       "id": "19",
       "url": "#",
-      "flag": "open day",
+      "theme": "",
+      "showFlags": "true",
+      "flags": [{ "label": "open day", "class": "st-warmGreyBg" }],
       "date": "25.01. - 27.01.2020",
       "text": "Lernen Sie unsere Hochschule, unsere Studiengänge und unser Team bei unserem Tag der offenen Tür kennen.",
       "location": "Campus Berlin",
-         "headline": "Tag der offenen Tür"
+      "headline": "Tag der offenen Tür"
     },
     {
       "id": "20",
       "url": "#",
-      "flag": "",
+      "theme": "",
+      "showFlags": false,
       "date": "13.02.2020",
       "text": "Lernen Sie bei der Infoveranstaltung verschiedene Finanzierungsmöglichkeiten kennen und lassen Sie sich beraten.",
       "location": "Campus Berlin",
-         "headline": "Das Einmaleins der Studienfinanzierung"
+      "headline": "Das Einmaleins der Studienfinanzierung"
     },
     {
       "id": "21",
       "url": "#",
-      "flag": "infotag",
+      "theme": "st-blue",
+      "showFlags": "true",
+      "flags": [ { "label": "infotag", "class": "st-background" }],
       "date": "26.02.2020",
       "text": "Erfahren Sie, was ein Studium bei uns ausmacht, wie Sie sich bewerben können und lernen Sie unser Team kennen.",
       "location": "Campus Berlin",
-         "headline": "Infonachmittag"
+      "headline": "Infonachmittag"
     },
     {
       "id": "22",
       "url": "#",
-      "flag": "start-up-lab",
+      "theme": "st-orange",
+      "showFlags": "true",
+      "flags": [ { "label": "start-up-lab", "class": "st-background" }],
       "date": "14.03.2020",
       "text": "Join the Start-up Lab Community",
       "location": "SRH Start-up Lab Berlin",
-         "headline": "1st Get Together of the Start-up Lab Community"
+      "headline": "1st Get Together of the Start-up Lab Community"
     },
     {
       "id": "23",
       "url": "#",
-      "flag": "start-up-lab",
+      "theme": "st-orange",
+      "showFlags": "true",
+      "flags": [ { "label": "start-up-lab", "class": "st-background" }],
       "date": "19.03.2020",
       "text": "You have a great idea? Looking for great tools that help you to open your business? Welcome to Berlin Startup School!",
       "location": "SRH Start-up Lab Berlin",
-         "headline": "„Working for the greater good“"
+      "headline": "„Working for the greater good“"
     },
     {
       "id": "24",
       "url": "#",
-      "flag": "start-up-lab",
+      "theme": "st-orange",
+      "showFlags": "true",
+      "flags": [ { "label": "start-up-lab", "class": "st-background" }],
       "date": "02.04.2020",
       "text": "Entrepreneurship is about working on yourself, develop & improve. Your emotional intelligence is key in this journey.",
       "location": "SRH Start-up Lab Berlin",
@@ -219,7 +260,9 @@
     {
       "id": "25",
       "url": "#",
-      "flag": "party",
+      "theme": "",
+      "showFlags": "true",
+      "flags": [{ "label": "party", "class": "st-warmGreyBg" }],
       "date": "13.07.2020",
       "text": "This year's Summer Bash of all Berlin SRH Universities is coming up - Come celebrate with us!",
       "location": "Heimathafen Berlin",
@@ -228,7 +271,8 @@
     {
       "id": "26",
       "url": "#",
-      "flag": "",
+      "theme": "",
+      "showFlags": false,
       "date": "25.07. - 27.07.2020",
       "text": "Sie sind noch unsicher, ob Management das Richtige für Sie ist? Kommen Sie zu unseren BWL-Schnuppervorlesungen.",
       "location": "Campus Berlin",
@@ -237,7 +281,8 @@
     {
       "id": "27",
       "url": "#",
-      "flag": "",
+      "theme": "",
+      "showFlags": false,
       "date": "18.05.2020",
       "text": "Which impact does entrepreneurship have on society? Our experts discuss the implications of the start-up boom.",
       "location": "SRH Start-up Lab Berlin",

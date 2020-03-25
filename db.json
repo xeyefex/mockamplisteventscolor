@@ -245,28 +245,6 @@
       "text": "You have a great idea? Looking for great tools that help you to open your business? Welcome to Berlin Startup School!",
       "location": "SRH Start-up Lab Berlin",
       "headline": "„Working for the greater good“"
-    },
-    {
-      "id": "24",
-      "url": "#",
-      "theme": "st-orange",
-      "showFlags": "true",
-      "flags": [ { "label": "start-up-lab", "class": "st-background" }],
-      "date": "02.04.2020",
-      "text": "Entrepreneurship is about working on yourself, develop & improve. Your emotional intelligence is key in this journey.",
-      "location": "SRH Start-up Lab Berlin",
-      "headline": "Emotional Intelligence - Communication in Entrepreneurship & Business"
-    },
-    {
-      "id": "25",
-      "url": "#",
-      "theme": "",
-      "showFlags": "true",
-      "flags": [{ "label": "party", "class": "st-warmGreyBg" }],
-      "date": "13.07.2020",
-      "text": "This year's Summer Bash of all Berlin SRH Universities is coming up - Come celebrate with us!",
-      "location": "Heimathafen Berlin",
-      "headline": "SRH Summer Bash 2019"
     }
   ]
 }
